@@ -1,4 +1,4 @@
-# Capturing-credentials-submitted-through-http-with-Wireshark
+# "Capturing credentials submitted through http with Wireshark" Report
 
 Abstract:
 -	During this Lab, I found that using HTTP on a site is very unsecure, especially if the website contains sensitive information and data that can be accessed through a login
